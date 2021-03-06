@@ -1,4 +1,4 @@
-baseURL = "http://ii-void.vercel.app/"
+baseURL = "http://iv-void.vercel.app/"
 languageCode = "en-us"
-title = "ii-void go web"
+title = "iv-void web"
 theme = "ananke"
