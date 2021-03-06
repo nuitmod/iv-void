@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://ii-void.vercel.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ii-void go web"
 theme = "ananke"
